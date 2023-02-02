@@ -1,2 +1,3 @@
-#code to create ec2
-#type --> t2.xlarge
+# code to create ec2
+# type --> t2.xlarge
+# os --> windows
